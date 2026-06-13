@@ -1,0 +1,385 @@
+date,station,rainfall_mm,risk_level
+1993-03-03,Chennai nungambakkam,2.0,Low
+1993-03-03,Chennai port trust,10.0,Moderate
+1993-03-03,Sholinganallur,2.0,Low
+1993-05-16,Chennai nungambakkam,46.1,High
+1993-05-16,Chennai port trust,46.0,High
+1993-05-16,Sholinganallur,46.1,High
+1993-05-27,Chennai nungambakkam,11.5,Moderate
+1993-05-27,Chennai port trust,8.0,Moderate
+1993-05-27,Sholinganallur,11.5,Moderate
+1993-05-28,Chennai nungambakkam,0.5,Low
+1993-05-28,Sholinganallur,0.5,Low
+1993-06-04,Chennai nungambakkam,3.6,Low
+1993-06-04,Chennai port trust,2.0,Low
+1993-06-04,Sholinganallur,3.6,Low
+1993-06-09,Chennai nungambakkam,31.6,Moderate
+1993-06-09,Chennai port trust,21.0,Moderate
+1993-06-09,Sholinganallur,31.6,Moderate
+1993-06-13,Chennai nungambakkam,7.6,Moderate
+1993-06-13,Chennai port trust,3.1,Low
+1993-06-13,Sholinganallur,7.6,Moderate
+1993-06-14,Chennai nungambakkam,2.8,Low
+1993-06-14,Chennai port trust,1.8,Low
+1993-06-14,Sholinganallur,2.8,Low
+1993-06-15,Chennai nungambakkam,3.7,Low
+1993-06-15,Chennai port trust,4.8,Low
+1993-06-15,Sholinganallur,3.7,Low
+1993-06-21,Chennai nungambakkam,0.1,Low
+1993-06-21,Sholinganallur,0.1,Low
+1993-07-02,Chennai nungambakkam,17.8,Moderate
+1993-07-02,Chennai port trust,20.2,Moderate
+1993-07-02,Sholinganallur,17.8,Moderate
+1993-07-06,Chennai nungambakkam,0.8,Low
+1993-07-06,Chennai port trust,1.6,Low
+1993-07-06,Sholinganallur,0.8,Low
+1993-07-07,Chennai nungambakkam,3.3,Low
+1993-07-07,Chennai port trust,4.6,Low
+1993-07-07,Sholinganallur,3.3,Low
+1993-07-08,Chennai nungambakkam,5.4,Low
+1993-07-08,Chennai port trust,8.8,Moderate
+1993-07-08,Sholinganallur,5.4,Low
+1993-07-09,Chennai nungambakkam,0.1,Low
+1993-07-09,Sholinganallur,0.1,Low
+1993-07-10,Chennai nungambakkam,2.3,Low
+1993-07-10,Chennai port trust,2.0,Low
+1993-07-10,Sholinganallur,2.3,Low
+1993-07-15,Chennai nungambakkam,1.8,Low
+1993-07-15,Sholinganallur,1.8,Low
+1993-07-16,Chennai nungambakkam,0.6,Low
+1993-07-16,Sholinganallur,0.6,Low
+1993-07-22,Chennai nungambakkam,21.4,Moderate
+1993-07-22,Chennai port trust,13.4,Moderate
+1993-07-22,Sholinganallur,21.4,Moderate
+1993-07-23,Chennai nungambakkam,2.0,Low
+1993-07-23,Chennai port trust,2.2,Low
+1993-07-23,Sholinganallur,2.0,Low
+1993-07-24,Chennai nungambakkam,7.4,Low
+1993-07-24,Chennai port trust,5.4,Low
+1993-07-24,Sholinganallur,7.4,Low
+1993-07-25,Chennai nungambakkam,3.3,Low
+1993-07-25,Chennai port trust,3.4,Low
+1993-07-25,Sholinganallur,3.3,Low
+1993-07-26,Chennai nungambakkam,3.2,Low
+1993-07-26,Sholinganallur,3.2,Low
+1993-07-27,Chennai nungambakkam,0.2,Low
+1993-07-27,Chennai port trust,1.0,Low
+1993-07-27,Sholinganallur,0.2,Low
+1993-07-28,Chennai nungambakkam,1.7,Low
+1993-07-28,Chennai port trust,0.4,Low
+1993-07-28,Sholinganallur,1.7,Low
+1993-07-30,Chennai nungambakkam,0.9,Low
+1993-07-30,Chennai port trust,1.0,Low
+1993-07-30,Sholinganallur,0.9,Low
+1993-08-01,Chennai nungambakkam,1.3,Low
+1993-08-01,Sholinganallur,1.3,Low
+1993-08-04,Chennai nungambakkam,0.5,Low
+1993-08-04,Chennai port trust,2.0,Low
+1993-08-04,Sholinganallur,0.5,Low
+1993-08-06,Chennai nungambakkam,10.0,Moderate
+1993-08-06,Chennai port trust,1.2,Low
+1993-08-06,Sholinganallur,10.0,Moderate
+1993-08-08,Chennai nungambakkam,3.5,Low
+1993-08-08,Sholinganallur,3.5,Low
+1993-08-09,Chennai nungambakkam,2.4,Low
+1993-08-09,Chennai port trust,2.8,Low
+1993-08-09,Sholinganallur,2.4,Low
+1993-08-11,Chennai nungambakkam,3.6,Low
+1993-08-11,Chennai port trust,0.4,Low
+1993-08-11,Sholinganallur,3.6,Low
+1993-08-13,Chennai nungambakkam,3.8,Low
+1993-08-13,Chennai port trust,1.0,Low
+1993-08-13,Sholinganallur,3.8,Low
+1993-08-14,Chennai nungambakkam,0.9,Low
+1993-08-14,Sholinganallur,0.9,Low
+1993-08-15,Chennai nungambakkam,10.2,Moderate
+1993-08-15,Chennai port trust,8.2,Moderate
+1993-08-15,Sholinganallur,10.2,Moderate
+1993-08-16,Chennai nungambakkam,7.2,Low
+1993-08-16,Chennai port trust,6.0,Low
+1993-08-16,Sholinganallur,7.2,Low
+1993-08-17,Chennai nungambakkam,0.6,Low
+1993-08-17,Chennai port trust,0.4,Low
+1993-08-17,Sholinganallur,0.6,Low
+1993-08-18,Chennai nungambakkam,14.2,Moderate
+1993-08-18,Chennai port trust,12.0,Moderate
+1993-08-18,Sholinganallur,14.2,Moderate
+1993-08-23,Chennai nungambakkam,26.6,Moderate
+1993-08-23,Chennai port trust,29.6,Moderate
+1993-08-23,Sholinganallur,26.6,Moderate
+1993-08-26,Chennai nungambakkam,3.7,Low
+1993-08-26,Chennai port trust,2.4,Low
+1993-08-26,Sholinganallur,3.7,Low
+1993-08-27,Chennai nungambakkam,5.2,Low
+1993-08-27,Chennai port trust,2.8,Low
+1993-08-27,Sholinganallur,5.2,Low
+1993-08-30,Chennai nungambakkam,18.4,Moderate
+1993-08-30,Chennai port trust,23.4,Moderate
+1993-08-30,Sholinganallur,18.4,Moderate
+1993-09-01,Chennai nungambakkam,11.6,Moderate
+1993-09-01,Chennai port trust,22.4,Moderate
+1993-09-01,Sholinganallur,11.6,Moderate
+1993-09-04,Chennai nungambakkam,27.8,Moderate
+1993-09-04,Chennai port trust,15.6,Moderate
+1993-09-04,Sholinganallur,27.8,Moderate
+1993-09-05,Chennai nungambakkam,1.7,Low
+1993-09-05,Sholinganallur,1.7,Low
+1993-09-06,Chennai nungambakkam,0.5,Low
+1993-09-06,Chennai port trust,1.0,Low
+1993-09-06,Sholinganallur,0.5,Low
+1993-09-12,Chennai nungambakkam,1.4,Low
+1993-09-12,Sholinganallur,1.4,Low
+1993-09-15,Chennai nungambakkam,3.4,Low
+1993-09-15,Sholinganallur,3.4,Low
+1993-09-16,Chennai nungambakkam,0.2,Low
+1993-09-16,Chennai port trust,0.6,Low
+1993-09-16,Sholinganallur,0.2,Low
+1993-09-18,Chennai nungambakkam,0.6,Low
+1993-09-18,Chennai port trust,2.0,Low
+1993-09-18,Sholinganallur,0.6,Low
+1993-09-20,Chennai nungambakkam,4.5,Low
+1993-09-20,Chennai port trust,13.6,Moderate
+1993-09-20,Sholinganallur,4.5,Low
+1993-09-24,Chennai nungambakkam,1.2,Low
+1993-09-24,Chennai port trust,2.0,Low
+1993-09-24,Sholinganallur,1.2,Low
+1993-10-02,Chennai nungambakkam,1.4,Low
+1993-10-02,Sholinganallur,1.4,Low
+1993-10-03,Chennai nungambakkam,24.6,Moderate
+1993-10-03,Chennai port trust,14.8,Moderate
+1993-10-03,Sholinganallur,24.6,Moderate
+1993-10-04,Chennai nungambakkam,0.3,Low
+1993-10-04,Chennai port trust,2.0,Low
+1993-10-04,Sholinganallur,0.3,Low
+1993-10-07,Chennai nungambakkam,4.8,Low
+1993-10-07,Chennai port trust,7.4,Low
+1993-10-07,Sholinganallur,4.8,Low
+1993-10-09,Chennai nungambakkam,20.0,Moderate
+1993-10-09,Chennai port trust,21.2,Moderate
+1993-10-09,Sholinganallur,20.0,Moderate
+1993-10-11,Chennai nungambakkam,0.3,Low
+1993-10-11,Sholinganallur,0.3,Low
+1993-10-12,Chennai nungambakkam,8.6,Moderate
+1993-10-12,Chennai port trust,16.4,Moderate
+1993-10-12,Sholinganallur,8.6,Moderate
+1993-10-13,Chennai nungambakkam,4.8,Low
+1993-10-13,Chennai port trust,2.8,Low
+1993-10-13,Sholinganallur,4.8,Low
+1993-10-14,Chennai nungambakkam,9.8,Moderate
+1993-10-14,Chennai port trust,3.4,Low
+1993-10-14,Sholinganallur,9.8,Moderate
+1993-10-15,Chennai nungambakkam,55.9,High
+1993-10-15,Chennai port trust,65.7,High
+1993-10-15,Sholinganallur,55.9,High
+1993-10-16,Chennai nungambakkam,4.8,Low
+1993-10-16,Chennai port trust,8.6,Moderate
+1993-10-16,Sholinganallur,4.8,Low
+1993-10-17,Chennai nungambakkam,1.6,Low
+1993-10-17,Sholinganallur,1.6,Low
+1993-10-18,Chennai nungambakkam,2.7,Low
+1993-10-18,Sholinganallur,2.7,Low
+1993-10-19,Chennai nungambakkam,41.4,High
+1993-10-19,Chennai port trust,23.2,Moderate
+1993-10-19,Sholinganallur,41.4,High
+1993-10-20,Chennai nungambakkam,27.8,Moderate
+1993-10-20,Chennai port trust,35.8,High
+1993-10-20,Sholinganallur,27.8,Moderate
+1993-10-21,Chennai nungambakkam,0.2,Low
+1993-10-21,Sholinganallur,0.2,Low
+1993-10-22,Chennai nungambakkam,14.4,Moderate
+1993-10-22,Chennai port trust,22.2,Moderate
+1993-10-22,Sholinganallur,14.4,Moderate
+1993-10-23,Chennai nungambakkam,1.8,Low
+1993-10-23,Sholinganallur,1.8,Low
+1993-10-30,Chennai nungambakkam,5.1,Low
+1993-10-30,Chennai port trust,7.5,Moderate
+1993-10-30,Sholinganallur,5.1,Low
+1993-10-31,Chennai nungambakkam,27.8,Moderate
+1993-10-31,Chennai port trust,10.2,Moderate
+1993-10-31,Sholinganallur,27.8,Moderate
+1993-11-01,Chennai nungambakkam,6.7,Low
+1993-11-01,Chennai port trust,8.4,Moderate
+1993-11-01,Sholinganallur,6.7,Low
+1993-11-02,Chennai nungambakkam,23.0,Moderate
+1993-11-02,Chennai port trust,19.0,Moderate
+1993-11-02,Sholinganallur,23.0,Moderate
+1993-11-03,Chennai nungambakkam,38.0,High
+1993-11-03,Chennai port trust,17.2,Moderate
+1993-11-03,Sholinganallur,38.0,High
+1993-11-04,Chennai nungambakkam,6.8,Low
+1993-11-04,Chennai port trust,5.0,Low
+1993-11-04,Sholinganallur,6.8,Low
+1993-11-05,Chennai nungambakkam,16.1,Moderate
+1993-11-05,Chennai port trust,5.2,Low
+1993-11-05,Sholinganallur,16.1,Moderate
+1993-11-06,Chennai nungambakkam,3.3,Low
+1993-11-06,Chennai port trust,9.0,Moderate
+1993-11-06,Sholinganallur,3.3,Low
+1993-11-07,Chennai nungambakkam,2.8,Low
+1993-11-07,Chennai port trust,10.2,Moderate
+1993-11-07,Sholinganallur,2.8,Low
+1993-11-08,Chennai port trust,12.4,Moderate
+1993-11-09,Chennai nungambakkam,23.2,Moderate
+1993-11-09,Chennai port trust,6.0,Low
+1993-11-09,Sholinganallur,23.2,Moderate
+1993-11-10,Chennai nungambakkam,61.9,High
+1993-11-10,Chennai port trust,50.7,High
+1993-11-10,Sholinganallur,61.9,High
+1993-11-11,Chennai nungambakkam,28.0,Moderate
+1993-11-11,Chennai port trust,20.5,Moderate
+1993-11-11,Sholinganallur,28.0,Moderate
+1993-11-12,Chennai nungambakkam,14.6,Moderate
+1993-11-12,Sholinganallur,14.6,Moderate
+1993-11-13,Chennai nungambakkam,8.8,Moderate
+1993-11-13,Chennai port trust,13.0,Moderate
+1993-11-13,Sholinganallur,8.8,Moderate
+1993-11-15,Chennai nungambakkam,0.7,Low
+1993-11-15,Chennai port trust,1.6,Low
+1993-11-15,Sholinganallur,0.7,Low
+1993-11-16,Chennai nungambakkam,46.6,High
+1993-11-16,Chennai port trust,50.2,High
+1993-11-16,Sholinganallur,46.6,High
+1993-11-22,Chennai nungambakkam,3.2,Low
+1993-11-22,Sholinganallur,3.2,Low
+1993-11-23,Chennai nungambakkam,1.4,Low
+1993-11-23,Sholinganallur,1.4,Low
+1993-11-24,Chennai nungambakkam,62.8,High
+1993-11-24,Chennai port trust,50.6,High
+1993-11-24,Sholinganallur,62.8,High
+1993-11-25,Chennai nungambakkam,7.2,Low
+1993-11-25,Chennai port trust,8.4,Moderate
+1993-11-25,Sholinganallur,7.2,Low
+1993-12-01,Chennai nungambakkam,64.9,High
+1993-12-01,Chennai port trust,65.2,High
+1993-12-01,Sholinganallur,64.9,High
+1993-12-02,Chennai nungambakkam,31.9,Moderate
+1993-12-02,Chennai port trust,33.2,Moderate
+1993-12-02,Sholinganallur,31.9,Moderate
+1993-12-04,Chennai nungambakkam,73.1,High
+1993-12-04,Chennai port trust,76.6,High
+1993-12-04,Sholinganallur,73.1,High
+1993-12-05,Chennai nungambakkam,22.1,Moderate
+1993-12-05,Chennai port trust,14.0,Moderate
+1993-12-05,Sholinganallur,22.1,Moderate
+1993-12-06,Chennai nungambakkam,1.9,Low
+1993-12-06,Chennai port trust,9.2,Moderate
+1993-12-06,Sholinganallur,1.9,Low
+1993-12-07,Chennai nungambakkam,0.9,Low
+1993-12-07,Chennai port trust,1.6,Low
+1993-12-07,Sholinganallur,0.9,Low
+1993-12-11,Chennai nungambakkam,0.1,Low
+1993-12-11,Sholinganallur,0.1,Low
+1993-12-20,Chennai nungambakkam,28.8,Moderate
+1993-12-20,Chennai port trust,28.4,Moderate
+1993-12-20,Sholinganallur,28.8,Moderate
+1993-12-21,Chennai nungambakkam,8.8,Moderate
+1993-12-21,Chennai port trust,9.2,Moderate
+1993-12-21,Sholinganallur,8.8,Moderate
+1993-12-22,Chennai nungambakkam,39.4,High
+1993-12-22,Chennai port trust,35.6,High
+1993-12-22,Sholinganallur,39.4,High
+1993-12-23,Chennai nungambakkam,1.0,Low
+1993-12-23,Chennai port trust,1.0,Low
+1993-12-23,Sholinganallur,1.0,Low
+1993-12-28,Chennai nungambakkam,10.8,Moderate
+1993-12-28,Chennai port trust,8.0,Moderate
+1993-12-28,Sholinganallur,10.8,Moderate
+1994-01-29,Alandur,7.0,Low
+1994-02-06,Alandur,7.2,Low
+1994-02-07,Alandur,27.2,Moderate
+1994-02-12,Alandur,5.5,Low
+1994-02-13,Alandur,24.5,Moderate
+1994-02-14,Alandur,10.0,Moderate
+1994-02-15,Alandur,2.0,Low
+1994-02-16,Alandur,15.5,Moderate
+1994-02-17,Alandur,245.5,Severe
+1994-02-18,Alandur,5.0,Low
+1994-03-05,Alandur,5.0,Low
+1994-05-25,Chennai nungambakkam,0.8,Low
+1994-05-26,Chennai nungambakkam,68.4,High
+1994-05-26,Chennai port trust,72.0,High
+1994-05-27,Chennai nungambakkam,1.2,Low
+1994-05-27,Chennai port trust,1.6,Low
+1994-06-10,Chennai nungambakkam,50.6,High
+1994-06-10,Chennai port trust,37.2,High
+1994-06-11,Alandur,1.5,Low
+1994-06-11,Chennai nungambakkam,2.2,Low
+1994-06-12,Chennai nungambakkam,0.7,Low
+1994-06-18,Alandur,32.5,Moderate
+1994-06-18,Chennai nungambakkam,0.6,Low
+1994-06-18,Chennai port trust,1.0,Low
+1994-06-19,Chennai nungambakkam,0.7,Low
+1994-06-20,Chennai nungambakkam,0.2,Low
+1994-06-20,Chennai port trust,0.3,Low
+1994-06-24,Chennai nungambakkam,1.2,Low
+1994-06-24,Chennai port trust,1.2,Low
+1994-06-25,Alandur,10.2,Moderate
+1994-06-26,Alandur,5.5,Low
+1994-06-27,Chennai nungambakkam,3.3,Low
+1994-06-27,Chennai port trust,6.6,Low
+1994-06-28,Alandur,9.0,Moderate
+1994-06-28,Chennai port trust,0.5,Low
+1994-06-30,Alandur,12.5,Moderate
+1994-07-07,Alandur,3.1,Low
+1994-07-08,Alandur,35.5,High
+1994-07-09,Alandur,15.5,Moderate
+1994-07-10,Alandur,3.5,Low
+1994-07-12,Alandur,20.5,Moderate
+1994-07-17,Alandur,10.0,Moderate
+1994-07-19,Alandur,17.0,Moderate
+1994-07-21,Alandur,21.5,Moderate
+1994-07-22,Alandur,26.0,Moderate
+1994-07-24,Alandur,82.5,High
+1994-07-25,Alandur,47.5,High
+1994-07-26,Alandur,5.0,Low
+1994-07-27,Alandur,3.0,Low
+1994-07-28,Alandur,7.5,Moderate
+1994-07-30,Alandur,3.5,Low
+1994-08-02,Alandur,7.0,Low
+1994-08-02,Chennai nungambakkam,0.5,Low
+1994-08-02,Chennai port trust,1.0,Low
+1994-08-05,Chennai nungambakkam,0.4,Low
+1994-08-06,Chennai nungambakkam,0.6,Low
+1994-08-08,Alandur,7.2,Low
+1994-08-12,Chennai nungambakkam,4.6,Low
+1994-08-12,Chennai port trust,3.0,Low
+1994-08-13,Chennai nungambakkam,0.1,Low
+1994-08-13,Chennai port trust,1.0,Low
+1994-08-17,Chennai nungambakkam,27.8,Moderate
+1994-08-17,Chennai port trust,28.0,Moderate
+1994-08-19,Chennai nungambakkam,0.4,Low
+1994-08-20,Alandur,2.0,Low
+1994-08-22,Chennai nungambakkam,19.2,Moderate
+1994-08-22,Chennai port trust,19.3,Moderate
+1994-08-23,Chennai nungambakkam,13.2,Moderate
+1994-08-23,Chennai port trust,14.2,Moderate
+1994-08-24,Alandur,10.3,Moderate
+1994-08-25,Chennai nungambakkam,23.2,Moderate
+1994-08-25,Chennai port trust,21.3,Moderate
+1994-08-26,Chennai nungambakkam,8.5,Moderate
+1994-08-26,Chennai port trust,8.0,Moderate
+1994-08-27,Chennai nungambakkam,6.0,Low
+1994-08-27,Chennai port trust,5.2,Low
+1994-08-29,Alandur,4.3,Low
+1994-09-01,Chennai nungambakkam,2.8,Low
+1994-09-01,Chennai port trust,3.5,Low
+1994-09-03,Chennai nungambakkam,0.7,Low
+1994-09-08,Chennai nungambakkam,0.4,Low
+1994-09-09,Alandur,1.2,Low
+1994-09-10,Alandur,1.0,Low
+1994-09-11,Chennai nungambakkam,1.0,Low
+1994-09-13,Chennai nungambakkam,7.3,Low
+1994-09-13,Chennai port trust,4.3,Low
+1994-09-14,Chennai nungambakkam,30.2,Moderate
+1994-09-14,Chennai port trust,21.5,Moderate
+1994-09-18,Alandur,8.2,Moderate
+1994-09-19,Alandur,10.0,Moderate
+1994-09-23,Chennai nungambakkam,1.8,Low
+1994-09-23,Chennai port trust,1.0,Low
+1994-09-25,Alandur,30.2,Moderate
+1994-09-26,Alandur,1.0,Low
+1994-09-27,Alandur,13.0,Moderate
+1994-09-28,Alandur,53.0,High
+1994-09-29,Alandur,145.0,Severe
+1994-09-30,Chennai nungambakkam,0.7,Low
+1994-09-30,Chennai port trust,1.4,Low
